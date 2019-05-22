@@ -1,4 +1,4 @@
-package cn.plantlink;
+package cn.plantlink.algorithm;
 
 import java.util.Arrays;
 import java.util.List;

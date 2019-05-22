@@ -1,4 +1,4 @@
-package cn.plantlink.sort;
+package cn.plantlink.algorithm.sort;
 
 /**
  * 快速排序：选择第一个元素作为pivot，两个指针分别指向数组头尾 -> 右指针左移找到第一个比pivot小的数与pivot交换位置

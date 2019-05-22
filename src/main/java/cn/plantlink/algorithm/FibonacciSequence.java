@@ -1,6 +1,4 @@
-package cn.plantlink;
-
-import javax.sound.midi.Soundbank;
+package cn.plantlink.algorithm;
 
 /**
  * 斐波那契数

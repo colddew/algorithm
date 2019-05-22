@@ -1,4 +1,4 @@
-package cn.plantlink.array;
+package cn.plantlink.algorithm.array;
 
 /**
  * 从n个数中找出第K大的数

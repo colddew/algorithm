@@ -1,4 +1,4 @@
-package cn.plantlink.sort;
+package cn.plantlink.algorithm.sort;
 
 /**
  * 二叉树

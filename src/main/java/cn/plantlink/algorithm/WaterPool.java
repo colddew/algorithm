@@ -1,6 +1,4 @@
-package cn.plantlink;
-
-import java.sql.SQLOutput;
+package cn.plantlink.algorithm;
 
 /**
  * 储水量问题
