@@ -4,9 +4,10 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * 判断有环链表
+ * 有向无环图
+ * Directed Acyclic Graph
  */
-public class CyclicList {
+public class DAG {
 
     // 辅助集合，时间复杂度O(n)，空间复杂度O(n)
     public static boolean hasCycleWithSet(ListNode head) {
