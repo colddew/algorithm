@@ -6,4 +6,5 @@ package cn.plantlink.algorithm;
  * 布隆过滤器算出不存在的数肯定不存在，算出存在的数可能存在也可能不存在，它是牺牲正确率来换取空间，误判问题通过建立白名单进行补救
  */
 public class BloomFilter {
+
 }

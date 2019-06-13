@@ -1,4 +1,4 @@
-package cn.plantlink.algorithm;
+package cn.plantlink.algorithm.graph;
 
 import java.util.HashSet;
 import java.util.Set;
